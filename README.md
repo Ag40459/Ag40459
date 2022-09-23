@@ -1,6 +1,6 @@
 ### Olá ... Eu sou Agenor Torres 👋
 ##
-- 🌱 Full Stack em formação
+- 🌱 Desenvolvedor Full Stack - Apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/Ag40459">
